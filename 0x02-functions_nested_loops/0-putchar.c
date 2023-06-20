@@ -1,5 +1,8 @@
 #include "main.h"
-//its a good tasks
+/**
+ *main -putchar
+ *return 0
+ */
 int main(void)
 {
 _putchar('_');
