@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *main _putchar -print
+ *is written by othmane
  *return 0
  */
 int main(void)
